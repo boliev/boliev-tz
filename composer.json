@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"Test\\": "src/", "Test\\Web\\": "web/", "UnitTests\\": "tests/"}
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.3"
+  }
+}
